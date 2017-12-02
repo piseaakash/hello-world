@@ -1,2 +1,4 @@
 # hello-world
-Sample repository for learning purpose
+
+Initial Git repository setup. 
+Lets start coding!
